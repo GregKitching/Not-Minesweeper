@@ -1,0 +1,24 @@
+button{
+	background-image: none;
+}
+#covered{
+	background-color: #CCCCCC;
+}
+
+#flag{
+	background-color: #CCCCCC;
+	color: red;
+}
+
+#mine{
+	background-color: grey;
+}
+
+#mineflag{
+	background-color: grey;
+	color: red;
+}
+
+#uncovered{
+	background-color: white;
+}
